@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019f668e-9ad7-70e1-928a-58d850713ced",
+  "sessionId": "019f668e-9ad7-70e1-928a-58d850713ced",
+  "provider": "codex",
+  "title": "Conversation codex 019f668e",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/07/16/rollout-2026-07-16T01-14-09-019f668e-9ad7-70e1-928a-58d850713ced.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/07/16/rollout-2026-07-16T01-14-09-019f668e-9ad7-70e1-928a-58d850713ced.jsonl",
+      "relativePath": "conversations/codex/fb07745fc18ff4fe/b538a50bc69ac9ec.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-07-15T16:29:12.842Z",
+  "stagedAt": "2026-10-04T08:55:15.795Z"
+}

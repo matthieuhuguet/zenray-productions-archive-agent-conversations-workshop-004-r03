@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e55af-9a39-70e1-8341-d210f8284e2a",
+  "sessionId": "019e55af-9a39-70e1-8341-d210f8284e2a",
+  "provider": "codex",
+  "title": "Est ce qu'il y a des fichiers MCP maya ou autre qui permettent de construire un rig et d'automatiser maya de bon outils meme payants qui per",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/23/rollout-2026-05-23T18-33-52-019e55af-9a39-70e1-8341-d210f8284e2a.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/23/rollout-2026-05-23T18-33-52-019e55af-9a39-70e1-8341-d210f8284e2a.jsonl",
+      "relativePath": "conversations/codex/ee96c9a99d60fa80/6ff672a1d136eb04.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-23T16:50:06.773Z",
+  "stagedAt": "2026-10-04T09:33:16.250Z"
+}

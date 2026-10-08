@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e6e09-197c-7180-a30b-a33d8b72bc69",
+  "sessionId": "019e6e09-197c-7180-a30b-a33d8b72bc69",
+  "provider": "codex",
+  "title": "en japonais on écrit にほんへ いこうとおもいます = je pense aller au Japon e ou he pour la particule si on devait écrire la phrase en romaji ? 1 para max",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/28/rollout-2026-05-28T12-02-30-019e6e09-197c-7180-a30b-a33d8b72bc69.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/28/rollout-2026-05-28T12-02-30-019e6e09-197c-7180-a30b-a33d8b72bc69.jsonl",
+      "relativePath": "conversations/codex/f71cb0e0d876399d/2af35a74f3f3fc79.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-28T10:04:29.564Z",
+  "stagedAt": "2026-10-04T09:27:46.250Z"
+}
