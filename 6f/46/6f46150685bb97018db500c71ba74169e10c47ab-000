@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:148e67b0-eec0-4f5a-927b-2034515e9795",
+  "sessionId": "148e67b0-eec0-4f5a-927b-2034515e9795",
+  "provider": "gemini",
+  "title": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-materials-substance-copernicus-30-09-2026/render/ceramic-tiles-ad-4096-24fps-bloodf",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/148e67b0-eec0-4f5a-927b-2034515e9795.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/148e67b0-eec0-4f5a-927b-2034515e9795.db",
+      "relativePath": "conversations/gemini/2907bdb68bf93346/2506cf14b68828cf.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-01T18:54:54.602Z",
+  "stagedAt": "2026-10-04T08:07:05.973Z"
+}

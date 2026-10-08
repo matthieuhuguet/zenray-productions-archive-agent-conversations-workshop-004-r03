@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:3f1e5bea-2f19-471a-a822-2f75f775b877",
+  "sessionId": "3f1e5bea-2f19-471a-a822-2f75f775b877",
+  "provider": "gemini",
+  "title": "Crée le même prompt mais pour les matériaux avec des flèches rouges ou carré pour bien affiché les choses. \"\"\"À partir de l’image globale jo",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/3f1e5bea-2f19-471a-a822-2f75f775b877.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/3f1e5bea-2f19-471a-a822-2f75f775b877.db",
+      "relativePath": "conversations/gemini/28ac0e226ec3d138/6bf22870f9f54d86.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T14:32:27.025Z",
+  "stagedAt": "2026-10-04T08:13:06.083Z"
+}

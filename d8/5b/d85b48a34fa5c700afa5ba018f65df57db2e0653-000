@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:cedba23c-1737-4321-bc40-f86e2d812ed4",
+  "sessionId": "cedba23c-1737-4321-bc40-f86e2d812ed4",
+  "provider": "gemini",
+  "title": "MAIS PUTAIN TAS JUSTE A FIX UNE SEULE LAYER QUI SONT LES WAVES TU LE FAIS ??? POURQUOI TU PRENDS AUTANT DE TEMPS C EST CHIANT",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/cedba23c-1737-4321-bc40-f86e2d812ed4.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/cedba23c-1737-4321-bc40-f86e2d812ed4.db",
+      "relativePath": "conversations/gemini/29b65e69a50a0b25/c29a3e953b625f18.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-15T15:16:33.548Z",
+  "stagedAt": "2026-10-04T08:15:19.434Z"
+}

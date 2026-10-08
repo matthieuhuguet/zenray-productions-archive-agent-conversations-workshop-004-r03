@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:d0b167b1-b03d-4ac3-a191-817904d44987",
+  "sessionId": "d0b167b1-b03d-4ac3-a191-817904d44987",
+  "provider": "gemini",
+  "title": "'/Users/zenray/Desktop/Screenshot 2026-10-04 at 11.49.01 (2).png' Lance houdini et reproduis l'asset commence par le crop setup un projet tm",
+  "projectId": "control-resonant-hub-assets",
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/d0b167b1-b03d-4ac3-a191-817904d44987.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/d0b167b1-b03d-4ac3-a191-817904d44987.db",
+      "relativePath": "conversations/gemini/26440573508d461c/145393123428f2b7.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-04T11:51:54.534Z",
+  "stagedAt": "2026-10-08T15:29:16.701Z"
+}
