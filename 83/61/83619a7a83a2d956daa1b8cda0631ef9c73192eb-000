@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:01a110cb-1d8a-7a82-b661-4ace652c8ac1",
+  "sessionId": "01a110cb-1d8a-7a82-b661-4ace652c8ac1",
+  "provider": "codex",
+  "title": "Conversation codex 01a110cb",
+  "projectId": "zenray-dictate",
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/10/06/rollout-2026-10-06T12-38-29-01a110cb-1d8a-7a82-b661-4ace652c8ac1.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/10/06/rollout-2026-10-06T12-38-29-01a110cb-1d8a-7a82-b661-4ace652c8ac1.jsonl",
+      "relativePath": "conversations/codex/07ff6bc4739db5bf/5c7c42285983f3af.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-06T10:40:38.321Z",
+  "stagedAt": "2026-10-08T13:11:27.161Z"
+}
