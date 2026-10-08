@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:d6c4912e-d216-482e-b3b4-de46d111b7db",
+  "sessionId": "d6c4912e-d216-482e-b3b4-de46d111b7db",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 01 (Windows) avec les sous-titres animes (effet scale pop, Inter ExtraBold et ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/d6c4912e-d216-482e-b3b4-de46d111b7db.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/d6c4912e-d216-482e-b3b4-de46d111b7db.db",
+      "relativePath": "conversations/gemini/23e69eab02e16e3c/e518a8012c33aa28.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T20:55:23.871Z",
+  "stagedAt": "2026-10-04T08:21:36.100Z"
+}

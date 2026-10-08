@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:a5e79e46-37f1-45ae-bfa0-f988bdae0c12",
+  "sessionId": "a5e79e46-37f1-45ae-bfa0-f988bdae0c12",
+  "provider": "gemini",
+  "title": "https://www.youtube.com/watch?v=hD1AMxDEO6s 2:02 to 2:12 in mp3 fast",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/a5e79e46-37f1-45ae-bfa0-f988bdae0c12.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/a5e79e46-37f1-45ae-bfa0-f988bdae0c12.db",
+      "relativePath": "conversations/gemini/0c4c9d2d1a51bbe1/1dce1a011fb7b58a.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-06T20:28:23.506Z",
+  "stagedAt": "2026-10-08T10:25:35.613Z"
+}

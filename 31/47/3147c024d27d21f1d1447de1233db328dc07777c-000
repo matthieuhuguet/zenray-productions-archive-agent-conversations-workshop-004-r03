@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:c5a38274-09f5-4f0a-92d4-a5c2da55d24c",
+  "sessionId": "c5a38274-09f5-4f0a-92d4-a5c2da55d24c",
+  "provider": "gemini",
+  "title": "Tu es l'agent spécialisé dans les détails géométriques et la finition du vestibule (Component_PorchVestibule) dans Houdini. Objectifs strict",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/c5a38274-09f5-4f0a-92d4-a5c2da55d24c.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/c5a38274-09f5-4f0a-92d4-a5c2da55d24c.db",
+      "relativePath": "conversations/gemini/0ba8a52a27eb455e/61ceeb65866e7556.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-12T13:05:23.236Z",
+  "stagedAt": "2026-10-04T08:18:48.576Z"
+}

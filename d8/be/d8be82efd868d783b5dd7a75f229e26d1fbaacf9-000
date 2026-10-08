@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:e97b8277-4d5f-4e71-ae8c-0422a39af91f",
+  "sessionId": "e97b8277-4d5f-4e71-ae8c-0422a39af91f",
+  "provider": "gemini",
+  "title": "Tu as accès au code du site a son visuel ainsi qu'aux accès cloudflare si je te demande de deploy ?",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/e97b8277-4d5f-4e71-ae8c-0422a39af91f.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/e97b8277-4d5f-4e71-ae8c-0422a39af91f.db",
+      "relativePath": "conversations/gemini/13ad2bbc5efc9d44/a11c266f7a6db706.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-05T08:38:42.230Z",
+  "stagedAt": "2026-10-04T08:28:08.622Z"
+}

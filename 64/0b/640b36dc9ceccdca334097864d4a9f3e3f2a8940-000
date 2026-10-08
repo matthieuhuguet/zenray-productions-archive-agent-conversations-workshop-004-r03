@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:8cfccc43-ac3c-48e2-9b25-55169b2fd25e",
+  "sessionId": "8cfccc43-ac3c-48e2-9b25-55169b2fd25e",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 03 (Church) avec les sous-titres animes (effet scale pop, Inter ExtraBold et A",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/8cfccc43-ac3c-48e2-9b25-55169b2fd25e.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/8cfccc43-ac3c-48e2-9b25-55169b2fd25e.db",
+      "relativePath": "conversations/gemini/01e135554129ab05/ad2082e73ed5705e.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T20:55:26.725Z",
+  "stagedAt": "2026-10-04T08:21:16.070Z"
+}

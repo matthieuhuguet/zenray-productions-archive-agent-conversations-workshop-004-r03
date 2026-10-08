@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:be64ca1e-d514-4c7b-9041-efa110462bd9",
+  "sessionId": "be64ca1e-d514-4c7b-9041-efa110462bd9",
+  "provider": "gemini",
+  "title": "Dans Memory fais en sorte de scan le dossier memory et dis moi ce qu'il contient on va essayer de le transformer en skill intelligement. lim",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/be64ca1e-d514-4c7b-9041-efa110462bd9.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/be64ca1e-d514-4c7b-9041-efa110462bd9.db",
+      "relativePath": "conversations/gemini/1cd68378474d4572/4dd87aa3df63a065.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T08:41:49.064Z",
+  "stagedAt": "2026-10-04T08:26:46.355Z"
+}

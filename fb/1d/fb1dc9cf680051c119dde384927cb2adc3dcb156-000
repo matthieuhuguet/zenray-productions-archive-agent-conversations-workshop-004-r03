@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:707cccd0-22f3-40b1-a92b-c4323494cf60",
+  "sessionId": "707cccd0-22f3-40b1-a92b-c4323494cf60",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 01 (Windows) avec le nouveau titre Light / Italic et sous-titres canon 1s. Mis",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/707cccd0-22f3-40b1-a92b-c4323494cf60.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/707cccd0-22f3-40b1-a92b-c4323494cf60.db",
+      "relativePath": "conversations/gemini/16ad9fc2971cd023/cc4a148ff37aed14.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T21:09:05.737Z",
+  "stagedAt": "2026-10-04T08:20:16.040Z"
+}

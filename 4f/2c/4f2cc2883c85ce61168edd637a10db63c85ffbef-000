@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e4e8a-aae1-7483-a4a7-a6cf55cbbc60",
+  "sessionId": "019e4e8a-aae1-7483-a4a7-a6cf55cbbc60",
+  "provider": "codex",
+  "title": "Contexte : perte totale de fichiers sur Mac J'ai perdu 100% de mes fichiers locaux. Avant toute action, lis le projet Memory et notamment le",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T09-16-11-019e4e8a-aae1-7483-a4a7-a6cf55cbbc60.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T09-16-11-019e4e8a-aae1-7483-a4a7-a6cf55cbbc60.jsonl",
+      "relativePath": "conversations/codex/ff2bec80d89907ad/38e7d0ecfb11d3fc.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-06-10T12:39:47.161Z",
+  "stagedAt": "2026-10-04T09:20:06.044Z"
+}

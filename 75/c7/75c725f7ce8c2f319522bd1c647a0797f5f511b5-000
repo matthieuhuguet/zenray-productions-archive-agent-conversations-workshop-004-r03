@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:63521a75-c9b0-49df-9067-d1ebe00c1fd9",
+  "sessionId": "63521a75-c9b0-49df-9067-d1ebe00c1fd9",
+  "provider": "gemini",
+  "title": "Est ce que tu peux générer l'img de cette église rapidement l'intérieur : via img gen",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/63521a75-c9b0-49df-9067-d1ebe00c1fd9.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/63521a75-c9b0-49df-9067-d1ebe00c1fd9.db",
+      "relativePath": "conversations/gemini/0dbd7e29bc2f6ea3/ae9e911e0b45908a.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T10:32:48.289Z",
+  "stagedAt": "2026-10-04T08:26:06.240Z"
+}
