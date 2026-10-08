@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7def-5419-7281-93ad-e74ba15d0ef3",
+  "sessionId": "019e7def-5419-7281-93ad-e74ba15d0ef3",
+  "provider": "codex",
+  "title": "Audit lecture seule dans /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayProgress. Analyse publication/site externe: api/publ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-08-17-019e7def-5419-7281-93ad-e74ba15d0ef3.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-08-17-019e7def-5419-7281-93ad-e74ba15d0ef3.jsonl",
+      "relativePath": "conversations/codex/0fd822365cc43735/1623324d94d35132.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T12:13:30.778Z",
+  "stagedAt": "2026-10-04T09:24:16.031Z"
+}
