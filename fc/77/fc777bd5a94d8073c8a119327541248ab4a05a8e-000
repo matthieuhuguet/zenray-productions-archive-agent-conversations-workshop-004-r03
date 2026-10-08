@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "claude:b214360d-4916-4822-9de5-ca302691e948",
+  "sessionId": "b214360d-4916-4822-9de5-ca302691e948",
+  "provider": "claude",
+  "title": "Resonance Shader Model 6.6 patch",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/b214360d-4916-4822-9de5-ca302691e948.jsonl",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/02368b1a-9531-492c-b78b-dbf8591aecf4/63776e96-f078-4fd7-8839-bf1710e3b652/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/6d9cf72b-55aa-4f2d-83cf-b2e96c682bb8/519c5f15-4988-4fd5-bcc5-d434338c78a8/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/6d9cf72b-55aa-4f2d-83cf-b2e96c682bb8/bf0f2eb1-a514-4e1b-938d-5fd41d174ee1/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/6d9cf72b-55aa-4f2d-83cf-b2e96c682bb8/e410da62-b0cb-4839-aece-40580ca951ac/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/a28d2458-e55b-4cf3-acec-322cb0778c40/519c5f15-4988-4fd5-bcc5-d434338c78a8/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/a28d2458-e55b-4cf3-acec-322cb0778c40/bf0f2eb1-a514-4e1b-938d-5fd41d174ee1/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/a28d2458-e55b-4cf3-acec-322cb0778c40/e410da62-b0cb-4839-aece-40580ca951ac/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/b258faf7-57a9-48fb-bcd8-7bf1a66defa8/519c5f15-4988-4fd5-bcc5-d434338c78a8/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/b258faf7-57a9-48fb-bcd8-7bf1a66defa8/bf0f2eb1-a514-4e1b-938d-5fd41d174ee1/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/b258faf7-57a9-48fb-bcd8-7bf1a66defa8/e410da62-b0cb-4839-aece-40580ca951ac/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/d5ad2e86-a5c4-4b7c-b14e-f00094b47c3a/515f5340-00c4-451f-959f-4fec4b824e04/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/e2a4b460-1eb4-4b4d-b52c-d6d2dcc95b6a/3b3dc5e2-5a21-4275-aa35-708f3efd0a70/local_9005e906-c086-4210-b90a-f895c8e97f3e.json",
+    "/Users/zenray/Library/Application Support/Claude/claude-code-sessions/fd672b1a-82d7-4ed7-b761-a65eb67a16ef/933a839e-eb3b-42a1-94c0-5a72e12b5524/local_9005e906-c086-4210-b90a-f895c8e97f3e.json"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/b214360d-4916-4822-9de5-ca302691e948.jsonl",
+      "relativePath": "conversations/claude/e43bf564ff66b808/cbbc3e282cee6e6b.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-08-29T15:50:08.212Z",
+  "stagedAt": "2026-10-04T08:33:31.543Z"
+}
